@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tyrantflood
 - 👀 I’m interested in ...Front end.
 - 🌱 I’m currently learning ... React
-- 💞️ I’m looking to collaborate on ... Front end related tas
+- 💞️ I’m looking to collaborate on ... Front end related task
 - 📫 How to reach me ...princeobi124@gmail.com
 
 <!---
