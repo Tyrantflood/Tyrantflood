@@ -1,6 +1,7 @@
 ### ✨ Who am I?
 
-My name is Prince Obi. I'm and aspiring software engineer that focuses on front end. Happy working with you.
+My name is Prince Obi. I'm an aspiring software engineer that is currently focusing on front end with the end goal of being a fullstack developer.
+Happy working with you.
 
 #### 💻 Technologies that I use
 
