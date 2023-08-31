@@ -2,9 +2,9 @@
 
 My name is Prince Obi. I'm Fullstack Developer that is currently focused on  developing my skills to greater heights.
 
-Currently learning laravel.
+Currently learning laravel!
 
-Happy working with you.
+Happy viewing!
 
 #### 💻 Technologies that I use
 
