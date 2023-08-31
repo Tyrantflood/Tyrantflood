@@ -1,6 +1,9 @@
 ### ✨ Who am I?
 
-My name is Prince Obi. I'm an aspiring software engineer that is currently focusing on front end with the end goal of being a fullstack developer.
+My name is Prince Obi. I'm Fullstack Developer that is currently focused on  developing my skills to greater heights.
+
+Currently learning laravel.
+
 Happy working with you.
 
 #### 💻 Technologies that I use
