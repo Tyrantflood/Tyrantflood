@@ -9,7 +9,7 @@ Happy viewing!
 Lets connect:
 
 📧 Email: obiprince060@gmail.com
-📄 Resume: [view resukme](https://princeobi.vercel.app/assets/Prince_Obi_resume.pdf)
+📄 Resume: [view resume](https://princeobi.vercel.app/assets/Prince_Obi_resume.pdf)
 
 
 Feel free to reach out if you're looking for a dedicated developer who is passionate about creating exceptional user experiences. Let's build something great together!
